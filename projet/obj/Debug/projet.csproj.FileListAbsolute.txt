@@ -1,0 +1,5 @@
+/Users/ramires/Projects/projet/bin/Debug/projet.exe
+/Users/ramires/Projects/projet/bin/Debug/projet.pdb
+/Users/ramires/Projects/projet/obj/Debug/projet.csprojAssemblyReference.cache
+/Users/ramires/Projects/projet/obj/Debug/projet.exe
+/Users/ramires/Projects/projet/obj/Debug/projet.pdb
